@@ -1,6 +1,6 @@
 ## Welcome! 
 
-This repo contains TCL examples from the _Tcl/Tk For Real Programmers_ a book written by Clif Flynt. These examples may directly or indirectly help you in your verification projects
+This repo contains TCL examples from the book _Tcl/Tk For Real Programmers_ authored by Clif Flynt. These examples may directly or indirectly help you in your verification projects.
 
 We have a website for this README (made with GitHub Pages). The URL for this is: 
 
